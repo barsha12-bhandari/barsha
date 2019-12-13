@@ -1,3 +1,2 @@
-# barsha
-aaa k xa?
-okay xa..
+print("hello...")
+print("hi......")
